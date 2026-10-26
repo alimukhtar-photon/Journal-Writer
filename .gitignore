@@ -1,0 +1,15 @@
+#all the files that i don't need to be there for the commit and upload to the github
+
+.class
+.jar
+.exe
+
+
+
+# folders 
+/saved-journals
+/.vscode
+
+
+
+#other file that i want to ignore
