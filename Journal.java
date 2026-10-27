@@ -1,3 +1,5 @@
+//this is a class for journals that will have some properties!
+
 public class Journal {
 
     private String title;
